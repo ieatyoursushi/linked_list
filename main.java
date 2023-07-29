@@ -1,4 +1,4 @@
-//https://www.studocu.com/en-us/document/university-of-maryland/object-oriented-programming-ii/cmsc132-linked-lists/43287662
+https://www.studocu.com/en-us/course/diablo-valley-college/advanced-programming-with-c-and-c/3306632
 import java.util.*
 public class Main
 {
